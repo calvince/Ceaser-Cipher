@@ -18,11 +18,33 @@
 * _Open terminal for execution of the project_
 * _navigate to the directory and build the project before you use it_
 
+## Behavior Driven Development
+
+<table>
+    <tr>
+      <th>Behavior</th>
+      <th>Input</th>
+      <th>Output</th>
+    </tr>
+    <tr>
+        <td>Encrypt a word</td>
+        <td>Input a word men</td>
+        <td>ogp</td>
+    </tr>
+    <tr>
+        <td>Decrypt</td>
+        <td>ogp</td>
+        <td>men</td>
+    </tr>
+
+</table>
+
 
 
 ## Technologies Used
 * _Java_
 * _Intellij IDEA_
+* _JDK_
 
 
 ## Support and contact details
